@@ -15111,7 +15111,7 @@
       const rt = 'App_app__DsAgs App_title-color__psoG3',
         ot = 'App_container__KWF6O',
         at = 'App_app_dark__1GtHj',
-        it = '../media/mainPhoto.2587432639a00ad5711b.png',
+        it = '/001/static/media/mainPhoto.2587432639a00ad5711b.png',
         lt = {
           main: 'Main_main__wiQWt',
           about: 'Main_about__2h9g3',
