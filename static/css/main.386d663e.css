@@ -596,12 +596,12 @@
   font-family: slick;
   font-style: normal;
   font-weight: 400;
-  src: url(./static/media/slick.a4e97f5a2a64f0ab1323.eot);
-  src: url(./static/media/slick.a4e97f5a2a64f0ab1323.eot?#iefix)
+  src: url(../media/slick.a4e97f5a2a64f0ab1323.eot);
+  src: url(../media/slick.a4e97f5a2a64f0ab1323.eot?#iefix)
       format('embedded-opentype'),
-    url(./static/media/slick.295183786cd8a1389865.woff) format('woff'),
-    url(./static/media/slick.c94f7671dcc99dce43e2.ttf) format('truetype'),
-    url(./static/media/slick.2630a3e3eab21c607e21.svg#slick) format('svg');
+    url(../media/slick.295183786cd8a1389865.woff) format('woff'),
+    url(../media/slick.c94f7671dcc99dce43e2.ttf) format('truetype'),
+    url(../media/slick.2630a3e3eab21c607e21.svg#slick) format('svg');
 }
 .slick-next,
 .slick-prev {
@@ -827,8 +827,7 @@
   gap: 10px;
 }
 .AboutMe_aboutMe__2m5VI {
-  background: no-repeat 100% 0/60%
-    url(./static/media/mac.7e7135be7c99b9f02c9f.png);
+  background: no-repeat 100% 0/60% url(../media/mac.7e7135be7c99b9f02c9f.png);
   padding: 150px 0 100px;
 }
 .AboutMe_aboutMe_wrap__k40LJ h1,
@@ -992,7 +991,7 @@
 }
 @font-face {
   font-family: Nunito;
-  src: url(./static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf);
+  src: url(../media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf);
 }
 body {
   -webkit-font-smoothing: antialiased;
