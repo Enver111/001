@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.386d663e.css",
-    "main.js": "/static/js/main.55c61f60.js",
+    "main.js": "/static/js/main.d84725e0.js",
     "static/media/mainPhoto.png": "/static/media/mainPhoto.2587432639a00ad5711b.png",
     "static/media/uber.png": "/static/media/uber.75d674033a80a9390104.png",
     "static/media/marvelIcon.png": "/static/media/marvelIcon.e35d41575d1aa2bf194a.png",
@@ -42,10 +42,10 @@
     "index.html": "/index.html",
     "static/media/docker.svg": "/static/media/docker.0d539ed6d8b9c2b324dffd830bd1b603.svg",
     "main.386d663e.css.map": "/static/css/main.386d663e.css.map",
-    "main.55c61f60.js.map": "/static/js/main.55c61f60.js.map"
+    "main.d84725e0.js.map": "/static/js/main.d84725e0.js.map"
   },
   "entrypoints": [
     "static/css/main.386d663e.css",
-    "static/js/main.55c61f60.js"
+    "static/js/main.d84725e0.js"
   ]
 }
