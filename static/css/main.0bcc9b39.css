@@ -477,7 +477,7 @@
 .Projects_darkCards__Z95CZ {
   background-color: #191919;
   box-shadow: 2px 2px 100px 0 #8c8c8c33;
-  transition: background 0.9s;
+  transition: background 0.9s, transform 0.2s;
 }
 .Projects_darkIcon__8OGeG img {
   filter: brightness(1);
@@ -596,12 +596,12 @@
   font-family: slick;
   font-style: normal;
   font-weight: 400;
-  src: url(../media/slick.a4e97f5a2a64f0ab1323.eot);
-  src: url(../media/slick.a4e97f5a2a64f0ab1323.eot?#iefix)
+  src: url(001/static/media/slick.a4e97f5a2a64f0ab1323.eot);
+  src: url(001/static/media/slick.a4e97f5a2a64f0ab1323.eot?#iefix)
       format('embedded-opentype'),
-    url(../media/slick.295183786cd8a1389865.woff) format('woff'),
-    url(../media/slick.c94f7671dcc99dce43e2.ttf) format('truetype'),
-    url(../media/slick.2630a3e3eab21c607e21.svg#slick) format('svg');
+    url(001/static/media/slick.295183786cd8a1389865.woff) format('woff'),
+    url(001/static/media/slick.c94f7671dcc99dce43e2.ttf) format('truetype'),
+    url(001/static/media/slick.2630a3e3eab21c607e21.svg#slick) format('svg');
 }
 .slick-next,
 .slick-prev {
@@ -827,7 +827,8 @@
   gap: 10px;
 }
 .AboutMe_aboutMe__2m5VI {
-  background: no-repeat 100% 0/60% url(../media/mac.7e7135be7c99b9f02c9f.png);
+  background: no-repeat 100% 0/60%
+    url(001/static/media/mac.7e7135be7c99b9f02c9f.png);
   padding: 150px 0 100px;
 }
 .AboutMe_aboutMe_wrap__k40LJ h1,
@@ -991,7 +992,7 @@
 }
 @font-face {
   font-family: Nunito;
-  src: url(../media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf);
+  src: url(001/static/media/Nunito-VariableFont_wght.c0f0807a40aebdc41b40.ttf);
 }
 body {
   -webkit-font-smoothing: antialiased;
@@ -999,4 +1000,4 @@ body {
   font-family: Nunito;
   margin: 0;
 }
-/*# sourceMappingURL=main.386d663e.css.map*/
+/*# sourceMappingURL=main.0bcc9b39.css.map*/

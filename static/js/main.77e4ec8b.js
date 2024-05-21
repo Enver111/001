@@ -1,4 +1,4 @@
-/*! For license information please see main.3cf3af44.js.LICENSE.txt */
+/*! For license information please see main.77e4ec8b.js.LICENSE.txt */
 (() => {
   var e = {
       238: (e, t) => {
@@ -14718,8 +14718,10 @@
         const a = (0, t.useMemo)(() => ({ i18n: n, defaultNS: r }), [n, r]);
         return (0, t.createElement)(Fe.Provider, { value: a }, o);
       }
-      const Be = n.p + '001/static/media/moon.5694b77030f6704e9146a3b16f64cf3b.svg';
-      const $e = n.p + '001/static/media/sun.50e2030b26995fbe1b76baf18215a03f.svg',
+      const Be =
+        n.p + '001/static/media/moon.5694b77030f6704e9146a3b16f64cf3b.svg';
+      const $e =
+          n.p + '001/static/media/sun.50e2030b26995fbe1b76baf18215a03f.svg',
         qe = { logo: 'Logo_logo__8wn7C', logo_num: 'Logo_logo_num__8lxN4' };
       var Ke = n(579);
       function Qe() {
@@ -15275,10 +15277,13 @@
           ],
         });
       }
-      const ct = n.p + '001/static/media/Html.2bc4125db84296a4addd44467bb3d06a.svg';
-      const ut = n.p + '001/static/media/Css.7bc3c189b81a23eecac4853d6d4be415.svg';
+      const ct =
+        n.p + '001/static/media/Html.2bc4125db84296a4addd44467bb3d06a.svg';
+      const ut =
+        n.p + '001/static/media/Css.7bc3c189b81a23eecac4853d6d4be415.svg';
       const dt =
-        n.p + '001/static/media/JavaScript.08b9e22a417a341fb27fbb0938f73945.svg';
+        n.p +
+        '001/static/media/JavaScript.08b9e22a417a341fb27fbb0938f73945.svg';
       const ft =
         n.p + '001/static/media/React.a109fe4202e2e4a29909ac44de230da8.svg';
       const pt =
@@ -15287,8 +15292,10 @@
         n.p + '001/static/media/Bootstrap.8ed01643b80d3c7e6ac98c2a6e19232c.svg';
       const mt =
         n.p + '001/static/media/Tailwind.e1550e27640e1bf045dfaffa6db404ed.svg';
-      const gt = n.p + '001/static/media/Sass.276b242bf58b84f571b5120c4050b5ff.svg';
-      const vt = n.p + '001/static/media/Git.ac5080213cbb38a13558413308a0a6aa.svg';
+      const gt =
+        n.p + '001/static/media/Sass.276b242bf58b84f571b5120c4050b5ff.svg';
+      const vt =
+        n.p + '001/static/media/Git.ac5080213cbb38a13558413308a0a6aa.svg';
       const bt =
         n.p + '001/static/media/Greensock.5985a4c38a362f552ec95cf40d435a69.svg';
       const yt =
@@ -15296,7 +15303,8 @@
       const kt =
         n.p + '001/static/media/GitGub.6290c39c5b6b12244ac6acc3fe89860b.svg';
       const wt =
-        n.p + '001/static/media/typescript.2296b308c067364d713c14d76a8a9cc4.svg';
+        n.p +
+        '001/static/media/typescript.2296b308c067364d713c14d76a8a9cc4.svg';
       const St =
           n.p + '001/static/media/docker.0d539ed6d8b9c2b324dffd830bd1b603.svg',
         _t = {
@@ -15490,8 +15498,10 @@
         Ct = n.p + '001/static/media/pulse.2ca86940ff8efbb7dedd.png',
         Pt = n.p + '001/static/media/uber.75d674033a80a9390104.png',
         Nt = n.p + '001/static/media/dodoIcon.33c24caa5a7f76ddad49.png';
-      const Tt = n.p + '001/static/media/live.9525a535466297b3698a7e907f18536b.svg';
-      const Lt = n.p + '001/static/media/git.ff8209733a6b90700ab702091cb0bfdc.svg',
+      const Tt =
+        n.p + '001/static/media/live.9525a535466297b3698a7e907f18536b.svg';
+      const Lt =
+          n.p + '001/static/media/git.ff8209733a6b90700ab702091cb0bfdc.svg',
         Mt = {
           proj: 'Projects_proj__uttq6',
           title: 'Projects_title__+qOvm',
@@ -15687,14 +15697,13 @@
             children: [
               (0, Ke.jsx)('h1', {
                 className: Mt.title,
-                children: '\u041f\u0440\u043e\u0435\u043a\u0442\u044b',
+                children: i('Projects'),
               }),
               (0, Ke.jsx)('h2', {
                 className: ''
                   .concat(Mt.subtitle, ' ')
                   .concat(r ? Mt.subtitle_tablet : ''),
-                children:
-                  '\u0412\u0435\u0431-\u0441\u0430\u0439\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442',
+                children: i('Things I\u2019ve built so far'),
               }),
             ],
           });
@@ -18633,7 +18642,7 @@
               'Technologies I\u2019ve been working with recently':
                 '\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u0441 \u043a\u043e\u0442\u043e\u0440\u044b\u043c\u0438 \u044f \u0440\u0430\u0431\u043e\u0442\u0430\u043b \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f',
               'Things I\u2019ve built so far':
-                '\u0412\u0435\u0431-\u0441\u0430\u0439\u0442\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u044f \u0441\u043e\u0437\u0434\u0430\u043b \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442',
+                '\u0412\u0435\u0449\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u044f \u043f\u043e\u0441\u0442\u0440\u043e\u0438\u043b \u043d\u0430 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442',
               'Since August 2023, I have been actively studying frontend web development, having mastered basics of HTML, CSS, SCSS, SASS, JavaScript and TypeScript. Deep I immersed myself in the React library and know how to work effectively with Redux to manage application state. I actively use the system Git version control for easy collaborative development. Ready to new challenges and constantly strive for professional growth.':
                 'C \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2023 \u0433\u043e\u0434\u0430 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0437\u0443\u0447\u0430\u044e frontend web \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443, \u043e\u0441\u0432\u043e\u0438\u0432 \u043e\u0441\u043d\u043e\u0432\u044b HTML, CSS, SCSS, SASS, JavaScript \u0438 TypeScript. \u0413\u043b\u0443\u0431\u043e\u043a\u043e \u043f\u043e\u0433\u0440\u0443\u0437\u0438\u043b\u0441\u044f \u0432 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443 React \u0438 \u0443\u043c\u0435\u044e \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 Redux \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. \u0410\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0432\u0435\u0440\u0441\u0438\u0439 Git \u0434\u043b\u044f \u0443\u0434\u043e\u0431\u043d\u043e\u0433\u043e \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438. \u0413\u043e\u0442\u043e\u0432 \u043a \u043d\u043e\u0432\u044b\u043c \u0432\u044b\u0437\u043e\u0432\u0430\u043c \u0438 \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e \u0441\u0442\u0440\u0435\u043c\u043b\u044e\u0441\u044c \u043a \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0440\u043e\u0441\u0442\u0443. ',
               'Personal qualities':
@@ -18901,7 +18910,8 @@
         n.p + '001/static/media/location.6435a7b16c1e08b83eab8140e8779623.svg';
       const Nn =
         n.p + '001/static/media/period.4005a9bd4aa7af001819fd32e344158a.svg';
-      const Tn = n.p + '001/static/media/dipl.b48775222063f2ee9f942d0daa8dbebe.svg',
+      const Tn =
+          n.p + '001/static/media/dipl.b48775222063f2ee9f942d0daa8dbebe.svg',
         Ln = {
           aboutMe: 'AboutMe_aboutMe__2m5VI',
           aboutMe_wrap: 'AboutMe_aboutMe_wrap__k40LJ',
@@ -19251,7 +19261,8 @@
         });
       }
       const In =
-          n.p + '001/static/media/up-arrow.8038565757bc6be5ef8bacbb1b3eb8c4.svg',
+          n.p +
+          '001/static/media/up-arrow.8038565757bc6be5ef8bacbb1b3eb8c4.svg',
         Dn = 'Scroll_scroll__km3ct',
         Fn = 'Scroll_icon__XctN6',
         An = () => {
@@ -19608,4 +19619,4 @@
       );
     })();
 })();
-//# sourceMappingURL=main.3cf3af44.js.map
+//# sourceMappingURL=main.77e4ec8b.js.map
