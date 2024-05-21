@@ -14718,8 +14718,8 @@
         const a = (0, t.useMemo)(() => ({ i18n: n, defaultNS: r }), [n, r]);
         return (0, t.createElement)(Fe.Provider, { value: a }, o);
       }
-      const Be = n.p + 'static/media/moon.5694b77030f6704e9146a3b16f64cf3b.svg';
-      const $e = n.p + 'static/media/sun.50e2030b26995fbe1b76baf18215a03f.svg',
+      const Be = n.p + '001/static/media/moon.5694b77030f6704e9146a3b16f64cf3b.svg';
+      const $e = n.p + '001/static/media/sun.50e2030b26995fbe1b76baf18215a03f.svg',
         qe = { logo: 'Logo_logo__8wn7C', logo_num: 'Logo_logo_num__8lxN4' };
       var Ke = n(579);
       function Qe() {
@@ -14804,9 +14804,9 @@
         contscts_mobile: 'Header_contscts_mobile__41CZc',
       };
       const Xe =
-        n.p + 'static/media/github.31275de0ea5cc10633b4452f267ce18e.svg';
+        n.p + '001/static/media/github.31275de0ea5cc10633b4452f267ce18e.svg';
       const Ze =
-        n.p + 'static/media/telegram.73e5bd34a64b8348c4f5b948135844cf.svg';
+        n.p + '001/static/media/telegram.73e5bd34a64b8348c4f5b948135844cf.svg';
       function et(e) {
         let { darkTheme: t, mobileVersion: n } = e;
         const r = t ? Ge.darkIcon : '';
@@ -15111,7 +15111,7 @@
       const rt = 'App_app__DsAgs App_title-color__psoG3',
         ot = 'App_container__KWF6O',
         at = 'App_app_dark__1GtHj',
-        it = '/001/static/media/mainPhoto.2587432639a00ad5711b.png',
+        it = n.p + '001/static/media/mainPhoto.2587432639a00ad5711b.png',
         lt = {
           main: 'Main_main__wiQWt',
           about: 'Main_about__2h9g3',
@@ -15275,30 +15275,30 @@
           ],
         });
       }
-      const ct = n.p + 'static/media/Html.2bc4125db84296a4addd44467bb3d06a.svg';
-      const ut = n.p + 'static/media/Css.7bc3c189b81a23eecac4853d6d4be415.svg';
+      const ct = n.p + '001/static/media/Html.2bc4125db84296a4addd44467bb3d06a.svg';
+      const ut = n.p + '001/static/media/Css.7bc3c189b81a23eecac4853d6d4be415.svg';
       const dt =
-        n.p + 'static/media/JavaScript.08b9e22a417a341fb27fbb0938f73945.svg';
+        n.p + '001/static/media/JavaScript.08b9e22a417a341fb27fbb0938f73945.svg';
       const ft =
-        n.p + 'static/media/React.a109fe4202e2e4a29909ac44de230da8.svg';
+        n.p + '001/static/media/React.a109fe4202e2e4a29909ac44de230da8.svg';
       const pt =
-        n.p + 'static/media/Redux.6c9083865af2351dec1cbda01e7a2c3e.svg';
+        n.p + '001/static/media/Redux.6c9083865af2351dec1cbda01e7a2c3e.svg';
       const ht =
-        n.p + 'static/media/Bootstrap.8ed01643b80d3c7e6ac98c2a6e19232c.svg';
+        n.p + '001/static/media/Bootstrap.8ed01643b80d3c7e6ac98c2a6e19232c.svg';
       const mt =
-        n.p + 'static/media/Tailwind.e1550e27640e1bf045dfaffa6db404ed.svg';
-      const gt = n.p + 'static/media/Sass.276b242bf58b84f571b5120c4050b5ff.svg';
-      const vt = n.p + 'static/media/Git.ac5080213cbb38a13558413308a0a6aa.svg';
+        n.p + '001/static/media/Tailwind.e1550e27640e1bf045dfaffa6db404ed.svg';
+      const gt = n.p + '001/static/media/Sass.276b242bf58b84f571b5120c4050b5ff.svg';
+      const vt = n.p + '001/static/media/Git.ac5080213cbb38a13558413308a0a6aa.svg';
       const bt =
-        n.p + 'static/media/Greensock.5985a4c38a362f552ec95cf40d435a69.svg';
+        n.p + '001/static/media/Greensock.5985a4c38a362f552ec95cf40d435a69.svg';
       const yt =
-        n.p + 'static/media/VScode.6720b02c9f7dcc765c3e446ebfd057b5.svg';
+        n.p + '001/static/media/VScode.6720b02c9f7dcc765c3e446ebfd057b5.svg';
       const kt =
-        n.p + 'static/media/GitGub.6290c39c5b6b12244ac6acc3fe89860b.svg';
+        n.p + '001/static/media/GitGub.6290c39c5b6b12244ac6acc3fe89860b.svg';
       const wt =
-        n.p + 'static/media/typescript.2296b308c067364d713c14d76a8a9cc4.svg';
+        n.p + '001/static/media/typescript.2296b308c067364d713c14d76a8a9cc4.svg';
       const St =
-          n.p + 'static/media/docker.0d539ed6d8b9c2b324dffd830bd1b603.svg',
+          n.p + '001/static/media/docker.0d539ed6d8b9c2b324dffd830bd1b603.svg',
         _t = {
           stack: 'Stack_stack__vACYc',
           title: 'Stack_title__Wdagq',
@@ -15484,14 +15484,14 @@
           ],
         });
       }
-      const jt = n.p + 'static/media/job_yan.8a54f128a3c8792260c3.png',
-        Ot = n.p + 'static/media/dropIcon.1e0e8bd04e6f9d15c92e.png',
-        Et = n.p + 'static/media/marvelIcon.e35d41575d1aa2bf194a.png',
-        Ct = n.p + 'static/media/pulse.2ca86940ff8efbb7dedd.png',
-        Pt = n.p + 'static/media/uber.75d674033a80a9390104.png',
-        Nt = n.p + 'static/media/dodoIcon.33c24caa5a7f76ddad49.png';
-      const Tt = n.p + 'static/media/live.9525a535466297b3698a7e907f18536b.svg';
-      const Lt = n.p + 'static/media/git.ff8209733a6b90700ab702091cb0bfdc.svg',
+      const jt = n.p + '001/static/media/job_yan.8a54f128a3c8792260c3.png',
+        Ot = n.p + '001/static/media/dropIcon.1e0e8bd04e6f9d15c92e.png',
+        Et = n.p + '001/static/media/marvelIcon.e35d41575d1aa2bf194a.png',
+        Ct = n.p + '001/static/media/pulse.2ca86940ff8efbb7dedd.png',
+        Pt = n.p + '001/static/media/uber.75d674033a80a9390104.png',
+        Nt = n.p + '001/static/media/dodoIcon.33c24caa5a7f76ddad49.png';
+      const Tt = n.p + '001/static/media/live.9525a535466297b3698a7e907f18536b.svg';
+      const Lt = n.p + '001/static/media/git.ff8209733a6b90700ab702091cb0bfdc.svg',
         Mt = {
           proj: 'Projects_proj__uttq6',
           title: 'Projects_title__+qOvm',
@@ -18896,12 +18896,12 @@
         });
       }
       const Cn =
-        n.p + 'static/media/company.28501b9eb27f7debb82e98fee1780870.svg';
+        n.p + '001/static/media/company.28501b9eb27f7debb82e98fee1780870.svg';
       const Pn =
-        n.p + 'static/media/location.6435a7b16c1e08b83eab8140e8779623.svg';
+        n.p + '001/static/media/location.6435a7b16c1e08b83eab8140e8779623.svg';
       const Nn =
-        n.p + 'static/media/period.4005a9bd4aa7af001819fd32e344158a.svg';
-      const Tn = n.p + 'static/media/dipl.b48775222063f2ee9f942d0daa8dbebe.svg',
+        n.p + '001/static/media/period.4005a9bd4aa7af001819fd32e344158a.svg';
+      const Tn = n.p + '001/static/media/dipl.b48775222063f2ee9f942d0daa8dbebe.svg',
         Ln = {
           aboutMe: 'AboutMe_aboutMe__2m5VI',
           aboutMe_wrap: 'AboutMe_aboutMe_wrap__k40LJ',
@@ -19251,7 +19251,7 @@
         });
       }
       const In =
-          n.p + 'static/media/up-arrow.8038565757bc6be5ef8bacbb1b3eb8c4.svg',
+          n.p + '001/static/media/up-arrow.8038565757bc6be5ef8bacbb1b3eb8c4.svg',
         Dn = 'Scroll_scroll__km3ct',
         Fn = 'Scroll_icon__XctN6',
         An = () => {
